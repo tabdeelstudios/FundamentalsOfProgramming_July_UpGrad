@@ -1,0 +1,7 @@
+1. http://users.csc.calpoly.edu/~jdalbey/103/Lectures/HashtableCalc.html
+2. https://www.cs.usfca.edu/~galles/visualization/OpenHash.html
+3. https://www.cs.usfca.edu/~galles/visualization/ClosedHash.html
+4. https://iswsa.acm.org/mphf/openDSAPerfectHashAnimation/perfectHashAV.html
+5. https://yongdanielliang.github.io/animation/web/BST.html
+6. https://www.cs.usfca.edu/~galles/visualization/BST.html
+7. https://visualgo.net/en/bst
