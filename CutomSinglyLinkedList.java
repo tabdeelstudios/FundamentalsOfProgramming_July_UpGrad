@@ -1,5 +1,5 @@
 package com.company.SinglyLinkedList;
-
+//Created by Aquib
 //1. Create a new Node
 //2. Insert a node in the list
 //3. Print the list (traversal)
