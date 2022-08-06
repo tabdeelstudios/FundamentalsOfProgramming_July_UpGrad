@@ -1,0 +1,13 @@
+import java.util.*;
+public class MyClass {
+    public static void main(String args[]) {
+        LinkedList<String> myCart = new LinkedList<String>();
+        myCart.add("Product One");
+        myCart.add("Product Two");
+        myCart.add("Product Three");
+        myCart.add(0,"Product Five");
+        System.out.println(myCart);
+        myCart.remove(1);
+        System.out.println(myCart);
+    }
+}
